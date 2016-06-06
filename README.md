@@ -11,7 +11,7 @@ Steps to start with designing report using Pentaho -<br/>
 -> Create a new report. A basic sample report page will be displaye. <br/>
 -> Now, make DB connection by clicking on Data -> Add Data Source -> JDBC datasource.<br/>
 -> A  JDBC datasource window will pop  and click on green ‘+’ icon to add the datasource.<br/>
--> A database connection window will pop up, select MySQL from the list and fill the required details in the form on the right hand side (connection detail. Hostname, username,password, database name, etc)
+-> A database connection window will pop up, select MySQL from the list and fill the required details in the form on the right hand side (connection detail. Hostname, username,password, database name, etc). <br/>
 -> Click on the test icon to test the connection. On successfull connection it will show OK. <br/>
 -> Now, you need to add query in the right side in the JDBC datasource window. <br/>
 -> Select the datasource which you have created and then click on “Add query” on the right side.<br/>
